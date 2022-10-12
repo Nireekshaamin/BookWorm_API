@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWorm_API", "BookWorm_API\BookWorm_API.csproj", "{35C77774-CD0B-4CF8-807C-B41A60081CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C77774-CD0B-4CF8-807C-B41A60081CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C77774-CD0B-4CF8-807C-B41A60081CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C77774-CD0B-4CF8-807C-B41A60081CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C77774-CD0B-4CF8-807C-B41A60081CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB6AA23-5D6B-49D8-BEED-400557216782}
+	EndGlobalSection
+EndGlobal
